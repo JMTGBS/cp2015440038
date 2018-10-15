@@ -1,0 +1,5 @@
+﻿  조건문 5.cpp
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문5\조건문 5.cpp(10): error C4700: 초기화되지 않은 'apple' 지역 변수를 사용했습니다.
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문5\조건문 5.cpp(12): error C4700: 초기화되지 않은 'orange' 지역 변수를 사용했습니다.
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문5\조건문 5.cpp(14): error C4700: 초기화되지 않은 'banana' 지역 변수를 사용했습니다.
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문5\조건문 5.cpp(16): error C4700: 초기화되지 않은 'peach' 지역 변수를 사용했습니다.

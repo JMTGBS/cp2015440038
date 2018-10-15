@@ -1,0 +1,7 @@
+﻿  조건문4.cpp
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문4\조건문4.cpp(3): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문4\조건문4.cpp(3): warning C4101: 'E' :참조되지 않은 지역 변수입니다.
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문4\조건문4.cpp(3): warning C4101: 'D' :참조되지 않은 지역 변수입니다.
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문4\조건문4.cpp(3): warning C4101: 'A' :참조되지 않은 지역 변수입니다.
+c:\users\김진호\source\repos\2015440038김진호\hw1 조건문4\조건문4.cpp(3): warning C4101: 'C' :참조되지 않은 지역 변수입니다.
+  HW1 조건문4.vcxproj -> C:\Users\김진호\source\repos\2015440038김진호\Debug\HW1 조건문4.exe
