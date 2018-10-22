@@ -1,12 +1,12 @@
 # include <stdio.h>
-int main
+int main(void)
 {
 
 
 
 	int a,b,c;
 
-	printf("두개의 정수를 입력하세요:");
+	printf("두개의 정수를 입력하시오:");
 	scanf("%d %d", &a,&b);
 
 	c = a / b;
