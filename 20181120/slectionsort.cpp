@@ -72,6 +72,7 @@ int main() {
 
 	printf("최솟값 %d\n", findMin(a, 5));
 	printf("최소 인덱스 = %d\n", findMinIndex(a, 5));
+	swapElement(a, 5);
 	selectionSort(a, 5);
 	printArray(a, 5);
 }
